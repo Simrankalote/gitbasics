@@ -1,1 +1,8 @@
-hiiii
+
+resporitary: 
+git init-initialisation
+git status - gives status-tracked/untracked/commit
+git add . - add all the files
+git commit -m "first commit" - for conformation
+git branch -- master/main
+git push -u origin master/main
