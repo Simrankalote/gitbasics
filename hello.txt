@@ -1,4 +1,3 @@
-
 resporitary: 
 git init-initialisation
 git status - gives status-tracked/untracked/commit
@@ -6,3 +5,12 @@ git add . - add all the files
 git commit -m "first commit" - for conformation
 git branch -- master/main
 git push -u origin master/main
+
+
+after changes done to file
+git status
+git add .
+git status
+git commit -m "file modified"
+git push -u origin master
+
